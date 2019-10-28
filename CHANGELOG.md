@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.7] - 2019-10-28
+- Update Alpine packages
+
 ## [1.1.6] - 2019-09-23
 - Update Alpine packages (fix CVE-2019-15903)
 
@@ -33,7 +36,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2018-03-07
 - Initial public release
 
-[Unreleased]:  https://github.com/gmitirol/alpine37/compare/1.1.6...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine37/compare/1.1.7...HEAD
+[1.1.7]: https://github.com/gmitirol/alpine37/compare/1.1.6...1.1.7
 [1.1.6]: https://github.com/gmitirol/alpine37/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/gmitirol/alpine37/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/gmitirol/alpine37/compare/1.1.3...1.1.4
