@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.10] - 2020-01-07
+- Fix version regex
+
 ## [1.1.9] - 2019-12-16
 - Update Alpine packages
 
@@ -42,7 +45,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2018-03-07
 - Initial public release
 
-[Unreleased]:  https://github.com/gmitirol/alpine37/compare/1.1.9...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine37/compare/1.1.10...HEAD
+[1.1.10]: https://github.com/gmitirol/alpine37/compare/1.1.9...1.1.10
 [1.1.9]: https://github.com/gmitirol/alpine37/compare/1.1.8...1.1.9
 [1.1.8]: https://github.com/gmitirol/alpine37/compare/1.1.7...1.1.8
 [1.1.7]: https://github.com/gmitirol/alpine37/compare/1.1.6...1.1.7
